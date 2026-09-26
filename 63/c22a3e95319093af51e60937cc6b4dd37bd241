@@ -1,0 +1,35 @@
+README.md
+  s_d47f00959a824f::t_70dbb79d7657a3 247-248
+github/action.yml
+  s_d47f00959a824f::t_c548732652cabe 244-245,293
+github/bonk_guidance.md
+  s_d47f00959a824f::t_616dc415337f63 60
+github/script/finalize.ts
+  s_d47f00959a824f::t_68ad428d7fa519 33-35
+github/script/orchestrate.ts
+  s_d47f00959a824f::t_0c077059dcb704 809-810
+github/script/review-publish.ts
+  s_d47f00959a824f::t_9d0f28443da46b 113-115,192,705-756,798,820-825,930-931
+github/script/run-opencode.ts
+  s_d47f00959a824f::t_29aa9d0798937c 6-12,47-49,55-79,264,267-293,345-355,363,371
+test/github-script.spec.ts
+  s_d47f00959a824f::t_ec6884962e3bc5 19-20,550,1178-1204
+test/review-publish.spec.ts
+  s_d47f00959a824f::t_45854c323048c3 1,18,630-676
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "63c22a3e95319093af51e60937cc6b4dd37bd241",
+  "prompts": {},
+  "sessions": {
+    "s_d47f00959a824f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f0edf6e-9af5-4419-ae90-ea2787327637",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Dan Lapid <dlapid@cloudflare.com>"
+    }
+  }
+}
