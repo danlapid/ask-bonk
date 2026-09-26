@@ -1,0 +1,45 @@
+README.md
+  s_d47f00959a824f::t_36ad9b4d474130 199-214,302-305
+src/types.ts
+  s_d47f00959a824f::t_bc9887d1395a68 193-194,208
+test/repo-agent.spec.ts
+  s_d47f00959a824f::t_3ee031ab734ccd 1-147
+src/workflows/github-track.ts
+  s_d47f00959a824f::t_f16d8f7177c2dd 26
+github/script/finalize.ts
+  s_d47f00959a824f::t_f8be176b6a67eb 4,8-24,29,75-80
+  s_d47f00959a824f::t_632d8074f86bba 58
+github/script/orchestrate.ts
+  s_d47f00959a824f::t_405bfef205515c 964,998-1000
+test/github-workflows.spec.ts
+  s_d47f00959a824f::t_121c5b2450973c 4,45,57-86
+src/workflows/github-finalize.ts
+  s_d47f00959a824f::t_81f8aa6e0f3ff9 23
+src/github-workflow-jobs.ts
+  s_d47f00959a824f::t_71289299c565f2 182,251-258
+github/action.yml
+  s_d47f00959a824f::t_257e3e3cf830dd 36-39
+  s_d47f00959a824f::t_a40c63ed2d828a 40-41,156,251-254,258
+test/github-script.spec.ts
+  s_d47f00959a824f::t_d1cded46e36c28 10,332-352
+  s_d47f00959a824f::t_7fa6e59175b7ed 353-354
+src/agent.ts
+  s_d47f00959a824f::t_803385f4bf8df2 31-33,205,208,218,247,279,297-306,536,557-567
+  s_d47f00959a824f::t_635ceb2977b26e 582,614-618
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fb9d2939d727da06371836ac4fe3044da8ba2a85",
+  "prompts": {},
+  "sessions": {
+    "s_d47f00959a824f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f0edf6e-9af5-4419-ae90-ea2787327637",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Dan Lapid <dlapid@cloudflare.com>"
+    }
+  }
+}
