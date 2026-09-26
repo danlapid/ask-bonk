@@ -1,0 +1,27 @@
+README.md
+  s_d47f00959a824f::t_c3abb6a89c4497 263,313
+github/bonk_guidance.md
+  s_d47f00959a824f::t_318d01368a0252 50-51,61,75-76,95
+github/script/review-publish.ts
+  s_d47f00959a824f::t_408fbdd1838746 82-83,205-207,520-565,1143-1147,1219
+test/prompt-contract.spec.ts
+  s_d47f00959a824f::t_ef41f59dce0de2 59-62
+test/review-publish.spec.ts
+  s_d47f00959a824f::t_9f171a06d722a4 6,400-443,526-532
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5f3c5a86ee1e2f1815caca8dee33be1e0f6d6647",
+  "prompts": {},
+  "sessions": {
+    "s_d47f00959a824f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f0edf6e-9af5-4419-ae90-ea2787327637",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Dan Lapid <dlapid@cloudflare.com>"
+    }
+  }
+}
