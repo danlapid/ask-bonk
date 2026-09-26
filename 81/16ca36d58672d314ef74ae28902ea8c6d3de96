@@ -1,0 +1,29 @@
+README.md
+  s_d47f00959a824f::t_2226eee667af56 280-281
+github/bonk_guidance.md
+  s_d47f00959a824f::t_a91a2c20edf7bb 80-81,90
+github/script/review-state.ts
+  s_d47f00959a824f::t_677946b207747e 346-350,358,361,365
+github/script/specialists.ts
+  s_d47f00959a824f::t_21444bd9a6c0e3 27,355-390,454-472,480-481,500,526-547,619,625-629,796,818,901,905-914,916,944,964
+test/prompt-contract.spec.ts
+  s_d47f00959a824f::t_d29b9f27cafb53 24-28
+test/specialists.spec.ts
+  s_d47f00959a824f::t_fb1c7f9ff49de9 12,272-354
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8116ca36d58672d314ef74ae28902ea8c6d3de96",
+  "prompts": {},
+  "sessions": {
+    "s_d47f00959a824f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f0edf6e-9af5-4419-ae90-ea2787327637",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Dan Lapid <dlapid@cloudflare.com>"
+    }
+  }
+}
