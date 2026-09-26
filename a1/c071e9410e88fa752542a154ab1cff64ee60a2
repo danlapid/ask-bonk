@@ -1,0 +1,27 @@
+README.md
+  s_d47f00959a824f::t_297c87aecfc463 285-297
+github/action.yml
+  s_d47f00959a824f::t_fe34c2bb7bdcee 202
+github/bonk_guidance.md
+  s_d47f00959a824f::t_a3a45ed5caa74b 75
+github/script/specialists.ts
+  s_d47f00959a824f::t_53f569a36287be 177-182,184-190,194-196,252-256,258,260,266,269-299,342-343,354-355,365,368-369,372,374-377,417,687,698-702,1031-1033,1039,1041-1044,1056-1066,1121
+test/specialists.spec.ts
+  s_d47f00959a824f::t_35297e037220d2 12,81-86,383-433
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a1c071e9410e88fa752542a154ab1cff64ee60a2",
+  "prompts": {},
+  "sessions": {
+    "s_d47f00959a824f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f0edf6e-9af5-4419-ae90-ea2787327637",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Dan Lapid <dlapid@cloudflare.com>"
+    }
+  }
+}
