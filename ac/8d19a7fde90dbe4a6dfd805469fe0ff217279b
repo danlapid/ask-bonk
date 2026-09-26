@@ -1,0 +1,39 @@
+github/script/finalize.ts
+  s_d47f00959a824f::t_9b2cc170e3cea6 4,8-14,21-27,32,78-83
+github/action.yml
+  s_d47f00959a824f::t_6c0de5708de235 262
+  s_d47f00959a824f::t_6e36b4545347f8 45-52,233-236
+test/github-script.spec.ts
+  s_d47f00959a824f::t_e67f63f40d9a67 10
+  s_d47f00959a824f::t_481b3c06c7514d 20,931-990
+src/metrics.ts
+  s_d47f00959a824f::t_390515a74910d5 19
+ae_queries/errors_by_repo.sql
+  s_d47f00959a824f::t_ca60adaf8fbf2d 2,11
+src/workflows/github-finalize.ts
+  s_d47f00959a824f::t_19ca28f2e0759a 19
+src/types.ts
+  s_d47f00959a824f::t_ba7164fc55d91b 202
+README.md
+  s_d47f00959a824f::t_e9920e2fabdbe8 233-257,325-326
+github/script/run-opencode.ts
+  s_d47f00959a824f::t_628e1b76fb6609 108-125,265
+test/github-workflows.spec.ts
+  s_d47f00959a824f::t_93e985473e4e3d 3,7,92-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ac8d19a7fde90dbe4a6dfd805469fe0ff217279b",
+  "prompts": {},
+  "sessions": {
+    "s_d47f00959a824f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f0edf6e-9af5-4419-ae90-ea2787327637",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Dan Lapid <dlapid@cloudflare.com>"
+    }
+  }
+}
