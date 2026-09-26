@@ -1,0 +1,37 @@
+README.md
+  s_d47f00959a824f::t_55051cbaba3a73 237-248,402
+github/action.yml
+  s_d47f00959a824f::t_992a66a95f2df2 71-74,178
+github/bonk_guidance.md
+  s_d47f00959a824f::t_a76cf825c971c4 8,68
+github/script/orchestrate.ts
+  s_d47f00959a824f::t_28639634e6cc53 27,695-707,743-744,751,756-768,827,843
+github/script/review-diff.ts
+  s_d47f00959a824f::t_0f9b8ff0476143 1-335
+github/script/review-publish.ts
+  s_d47f00959a824f::t_d4ebbd0795da35 19,24,118-119,197,466-470,474,476-479,482,800-802,860-862
+github/script/review-state.ts
+  s_d47f00959a824f::t_e6b1425af746a1 8-9,12,127,130-132,306-307,323-347,351,380-405,545-591,721,732,735,738-743,747-750,757
+test/github-script.spec.ts
+  s_d47f00959a824f::t_78d72bb7e1da2c 431,433-439,455-459,521-526,564,570-575
+test/review-diff.spec.ts
+  s_d47f00959a824f::t_dc6a5d5d8bd459 1-133
+test/review-publish.spec.ts
+  s_d47f00959a824f::t_629145bb338091 17,477-511,671-675
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "17e1f25eb8b3d05cae0de1164efcd4e9d6ee7237",
+  "prompts": {},
+  "sessions": {
+    "s_d47f00959a824f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f0edf6e-9af5-4419-ae90-ea2787327637",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Dan Lapid <dlapid@cloudflare.com>"
+    }
+  }
+}
